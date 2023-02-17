@@ -2,3 +2,4 @@ vina_resolusi
 - konsisten dalam latihan bahasa program
 - banyak membaca
 - menyimpulkan apa yang didapat di setiap matkul
+- menyiapkan bahan matakuliah yg dibutuhkan
